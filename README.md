@@ -1,5 +1,4 @@
 # Western States - WIP
-# Western States Data Set
 
 ## What is Western States?
 
@@ -17,3 +16,8 @@ The 2021 race wrapped up recently and it was a record breaker! In the overall to
 ## Inquiry(ies)
 
 Is this historic number of women in the overall top 20 a fluke or the by product of something else? I will analyze the historical data to determine whether this record may be trending towards being broken again, and if so, why? If there is a history of an increase in the number of women in the overall top 20, is this merely a byproduct of an increase in female participants or are there additional factors at play? 
+
+## Project Plan (simplified)
+1) Use Python to scrape the data from the Western States website
+2) Initial cleaning (if necessary) and analysis with R
+3) Create visuals with R or Tableau (undecided)
